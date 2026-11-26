@@ -29,7 +29,7 @@ Con poca RAM puedes usar un modelo más pequeño (ver *Problemas frecuentes*), a
 ## 2. Descarga este repositorio
 
 ```bash
-git clone <URL-DEL-REPO-DEL-TALLER> taller-owasp-llm
+git clone https://github.com/BacktrackAcademy/OWASP-TOP-10-LLM-Laboratory.git taller-owasp-llm
 cd taller-owasp-llm
 ```
 
